@@ -539,7 +539,7 @@
       "api": "https://caiji.kuaichezy.org/api.php/provide",
       "name": "快车资源阿",
       "is_adult": false
-    },
+    }，
     "xinlangapi_provide": {
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
       "name": "新浪资源阿",
